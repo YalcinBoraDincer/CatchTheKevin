@@ -4,7 +4,7 @@ import turtle
 # Screen
 wn = turtle.Screen()
 wn.bgcolor('#EEE8AA')
-wn.title('CatchTheGirl')
+wn.title('CatchTheKevin')
 wn.setup(1000, 800)
 
 # Image
